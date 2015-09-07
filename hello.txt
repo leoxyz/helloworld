@@ -1,2 +1,2 @@
 aaa
-test git short
+test git diff
